@@ -6,8 +6,6 @@
 // Using Copy function
 // Using vector::assign function 
 
-
-
 #include<bits/stdc++.h>
 using namespace std;
 

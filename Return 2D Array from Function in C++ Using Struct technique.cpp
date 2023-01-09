@@ -2,7 +2,6 @@
 // Return 2D Array from Function in C++
 // Using Struct technique
 
-
 #include<iostream>
 using namespace std;
 const int N=3;

@@ -6,10 +6,6 @@
 // Storing a software application’s list of undo operations.
 // Job scheduling algorithm
 
-
-
-
-
 // Time Complexity:
 // Accessing Elements- O(1)
 // Insertion or removal of elements- O(N)

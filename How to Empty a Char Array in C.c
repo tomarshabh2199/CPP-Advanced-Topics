@@ -33,9 +33,6 @@ Output
 Before: a b c d e 
 After: 
 
-
-
 memset(arr, '\0',sizeof(arr));
-
 
 strcpy(arr,"");

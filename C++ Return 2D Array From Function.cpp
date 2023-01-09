@@ -2,9 +2,6 @@
 // 2. Return 2D Array from Function in C++
 // Using Static Keyword
 
-
-
-
 #include<iostream>
 using namespace std;
 const int N=3;

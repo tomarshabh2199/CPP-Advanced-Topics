@@ -18,7 +18,6 @@ void subsets(int arr[], int n){
 	}
 }
 
-
 int main(){
 	int arr[4]={1,2,3,4};
 	cout<<subsets(arr,4)<<endl;
