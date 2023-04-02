@@ -1,5 +1,4 @@
 #include<iostream>
-using namespace std;
 #include<unordered_map>
 #include<map>
 
@@ -10,6 +9,7 @@ using namespace std;
 #define pii pair<int,int>
 #define vii vector<pii>
 #define setBits(x) builtin_popcount(x)
+using namespace std;
 
 signed main(){
 
