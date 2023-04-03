@@ -3,6 +3,7 @@
         "wavesort"
     ],
     "files.associations": {
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "deque": "cpp"
     }
 }
